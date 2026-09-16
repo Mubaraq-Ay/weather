@@ -24,4 +24,3 @@ print(f"""
     Time:   {time}
     Temperature: {temperature}°C
 """)
- 
